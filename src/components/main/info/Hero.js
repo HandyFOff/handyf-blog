@@ -5,8 +5,8 @@ export default function Hero() {
         <section className="hero">
             <div className="container">
                 <div className="hero-info">
-                    <span className="hero-info__pretitle">PLAN YOUR LIFE</span>
-                    <h1 className="hero-info__title">Increase your <span>productivity</span></h1>
+                    <span className="hero-info__pretitle pretitle">PLAN YOUR LIFE</span>
+                    <h1 className="hero-info__title title">Increase your <span>productivity</span></h1>
                     <p className="hero-info__text">Brute laoreet efficiendi id his, ea illum nonumes luptatum pro. Usu atqui laudem an, insolens gubergren similique est cu. Et vel modus congue vituperata.</p>
                 </div>
                 <button className="btn-hero__play">

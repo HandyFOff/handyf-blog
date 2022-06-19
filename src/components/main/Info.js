@@ -3,6 +3,7 @@ import Hero from "./info/Hero";
 import Sponser from "./info/Sponser";
 import Manage from "./info/Manage";
 import Features from "./info/Features";
+import Stats from "./info/Stats";
 
 // <data files>
 import sponsersData from "./info/sponser/sponsersData";
@@ -25,6 +26,7 @@ export default function Info() {
                 </div>
                 <Manage/>
                 <Features/>
+                <Stats/>
         </section>
     )
 }
